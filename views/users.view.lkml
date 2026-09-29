@@ -9,7 +9,7 @@ view: users_project_imported {
   }
   dimension: age {
     type: number
-    sql: ${TABLE}.age ;;
+    sql: ${TABLE}.age + ${citi};;
   }
   dimension: city {
     type: string
