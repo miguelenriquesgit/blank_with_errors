@@ -10,5 +10,4 @@ datagroup: blank_error_project_default_datagroup {
 
 persist_with: blank_error_project_default_datagroup
 
-explore: users {}
-
+explore: users_project_imported {}

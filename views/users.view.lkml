@@ -1,4 +1,4 @@
-view: users {
+view: users_project_imported {
   sql_table_name: demo_db.users ;;
   drill_fields: [id]
 
